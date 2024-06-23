@@ -1,0 +1,40 @@
+*{
+  margin: 5px;
+  padding: 0;
+  box-sizing: border-box;
+}
+.caja{
+  width: 320px;
+  height: 420px;
+  display: block;
+  background-color: rgb(195, 233, 242);
+  margin: 10px 5px;
+  padding: 10px 15px;
+  border-radius: 10px ;
+  display: inline-block;
+  border:  20px;
+  box-shadow: 0px 0px 5px black;
+}
+img{
+  display: block;
+  width: 65%;
+  height: 65%;
+  margin: 0px auto;
+  padding: 10px;
+  filter: drop-shadow(1px 1px 7px  blue);
+}
+.nombre{
+  display: block;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  text-align: left;
+  font-size: 150%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.frase{
+  color: rgb(62, 62, 65);
+  margin: 0px 1px;
+  text-align: left;
+  font-size: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
